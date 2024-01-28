@@ -25,7 +25,7 @@ header {
 
 .header-left {
     font-size: 24px;
-    font-weight: 900;
+    font-weight: 700;
     color: #F9FAF8;
 }
 
@@ -82,4 +82,39 @@ button {
     margin: 10px 0;
     border: 0;
     border-radius: 8px;
+}
+
+.info-section {
+    text-align: center;
+    margin: auto;
+    width: 900px;
+}
+
+.info-section h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    padding: 40px;
+}
+
+.info-row {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 80px;
+}
+
+.info-row img,
+.info-row p {
+    width: 150px;
+    height: auto;
+}
+
+.info-row p {
+    font-size: 18px;
+    color: #1F2937;
+}
+
+.info-row img {
+    border: 2px solid #3882F6;
+    border-radius: 10px;
 }
