@@ -118,3 +118,27 @@ button {
     border: 2px solid #3882F6;
     border-radius: 10px;
 }
+
+.background-color-light {
+    background-color: #E5E7EB;
+}
+
+.quote-section {
+    margin: auto;
+    width: 900px;
+    padding: 100px 70px;
+}
+
+.quote-section .quote {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-section .quote-attribute {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    padding: 20px;
+}
