@@ -174,3 +174,7 @@ footer {
     font-size: 18px;
     padding: 40px;
 }
+
+button:hover {
+    cursor: pointer;
+}
