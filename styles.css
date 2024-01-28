@@ -126,7 +126,7 @@ button {
 .quote-section {
     margin: auto;
     width: 900px;
-    padding: 100px 70px;
+    padding: 90px 70px;
 }
 
 .quote-section .quote {
@@ -164,4 +164,13 @@ button {
 
 .call-to-action-section button {
     border: 2px solid #F9FAF8;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 40px;
 }
