@@ -72,6 +72,7 @@ main p {
     width: 450px;
     height: auto;
     border: 2px solid #F9FAF8;
+    border-radius: 10px;
 }
 
 button {
